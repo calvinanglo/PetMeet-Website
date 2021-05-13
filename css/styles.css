@@ -164,8 +164,8 @@ p {
 }
 
 /* Mobile View */
-@media (max-Width: 1020px) {
-    #title {
+@media (max-Width: 990px) {
+    #title .container-fluid{
         text-align: center;
     }
 
