@@ -165,9 +165,9 @@ p {
 
 /* Mobile View */
 @media (max-Width: 990px) {
-    #title .container-fluid{
+    #title .container-fluid {
         text-align: center;
-    }
+     }
 
     .title-image {
         position: static;
