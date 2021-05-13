@@ -165,7 +165,7 @@ p {
 
 /* Mobile View */
 @media (max-Width: 990px) {
-    #title .container-fluid {
+    #title{
         text-align: center;
      }
 
